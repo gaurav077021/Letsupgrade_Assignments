@@ -1,0 +1,7 @@
+Question: Mention the difference between compiler and interpreter.
+
+Answer:
+
+Interpreter: Interpreter is a translator which translate high level language to machine level language line by line.
+
+Compiler: Compiler is a translator which translate high level language to machine level language in a single go.
